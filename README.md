@@ -8,8 +8,8 @@ Este trabajo práctico implementa una comunicación bidireccional en tiempo real
 
 ## Enlace al Video de Demostración
 
-
+https://drive.google.com/file/d/1Jvd7iKjpjAgF76OS5z_2aHT0xqVbs0RO/view?usp=sharing
 
 ## Estructura del Repositorio
-- **`arduino/`**: Contiene el código fuente (`sketch.ino`) y los archivos de la simulación del microcontrolador.
-- **`processing/`**: Contiene el código fuente de la interfaz gráfica desarrollada en Processing.
+- **`Arduino/Código de arduino y readme`**: Contiene el código fuente en arduino.
+- **`Processing/codigo de processing y readme`**: Contiene el código fuente de la interfaz gráfica desarrollada en Processing.
