@@ -4,7 +4,7 @@
 - **Facultad:** UTN FRM (Universidad Tecnológica Nacional - Facultad Regional Mendoza)
 
 ## Descripción del Proyecto
-Este trabajo práctico implementa una comunicación bidireccional en tiempo real entre un microcontrolador Arduino (simulado en Wokwi) y una interfaz gráfica desarrollada en Processing.
+Este trabajo práctico implementa una comunicación bidireccional en tiempo real entre un microcontrolador Arduino  y una interfaz gráfica desarrollada en Processing.
 
 ## Enlace al Video de Demostración
 
